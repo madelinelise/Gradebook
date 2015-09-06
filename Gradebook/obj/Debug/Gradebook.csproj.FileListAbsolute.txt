@@ -1,0 +1,6 @@
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\bin\Debug\Gradebook.exe.config
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\obj\Debug\Gradebook.csprojResolveAssemblyReference.cache
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\bin\Debug\Gradebook.exe
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\bin\Debug\Gradebook.pdb
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\obj\Debug\Gradebook.exe
+c:\users\madeline\documents\visual studio 2015\Projects\Gradebook\Gradebook\obj\Debug\Gradebook.pdb
