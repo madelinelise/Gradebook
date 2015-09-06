@@ -10,7 +10,16 @@ public class GradeBookTest
         // Create a GradeBook object and assign it to myGradeBook (variable??)
         GradeBook myGradeBook = new GradeBook();
 
+        // Prompt for input course name
+
+        Console.WriteLine("Please enter course name: ");
+
+        string nameOfCourse = Console.ReadLine(); // read a line of text and store it as the course name.
+
+        Console.WriteLine();
+
+        myGradeBook.DisplayMessage( nameOfCourse );
         // Call myGradeBook's DisplayMessage Method
-        myGradeBook.DisplayMessage();
+       // myGradeBook.DisplayMessage();
 	} // End Main
 } // End GradeBookTest class
